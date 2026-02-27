@@ -2,6 +2,7 @@
 //link : https://leetcode.com/problems/maximum-product-subarray/post-solution/?submissionId=1932570147
 //Time complexity : O(n)
 //Space complexity : O(1)
+//Pattern: Kadane's algorithm
 
 class Solution {
 public:
